@@ -1,1 +1,1 @@
-# Complex-number-package
+A package for complex numbers
